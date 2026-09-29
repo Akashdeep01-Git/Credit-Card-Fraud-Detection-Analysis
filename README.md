@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection Analysis   💳🔍
+# Credit Card Fraud Detection Analysis 💳🔍
 
 ## 📊 Project Visual Preview
 ![Spending Distribution](high_risk_user_profiles.png)
