@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection Analysis 💳🔍
 
 ## 📊 Project Visual Preview
-![Spending Distribution](high_risk_user_profiles.png)
+![Spending Distribution](high_risk_user_profiles.png?v=2)
 
 ## 📌 Executive Summary
 Engineered an end-to-end data analytics and predictive machine learning pipeline evaluating credit card transaction behavior. This project demonstrates why traditional rule-based firewall monitoring systems fail against sophisticated modern fraud vectors and provides a robust machine learning blueprint for extracting high-precision fraud triggers from heavily imbalanced datasets (0.17% minority class ratio).
